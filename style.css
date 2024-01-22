@@ -1,0 +1,27 @@
+h1 {
+    color:darkblue;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+h4 {
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+}
+h2 {
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium;
+}
+h3 {
+    color:deepskyblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium;
+
+
+}
+
+body {
+    background-color:aliceblue;
+    font-family:'Times New Roman', Times, serif;
+}
